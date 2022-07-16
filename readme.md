@@ -7,7 +7,7 @@ The answer is yes.
 2. packageb is in `apps`
 
 And the mainc installed them all,
-run `src/main.py` successfully.
+run [src/main.py](mainc/src/main.py) successfully.
 
 The folder tree is:
 
