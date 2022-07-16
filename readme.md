@@ -27,3 +27,15 @@ The folder tree is:
 │   └── pyproject.toml
 └── readme.md
 ```
+
+The `main.py` is:
+
+```python
+from apps.packagea.a import printa
+from apps.packageb.b import printb
+
+
+if __name__ == "__main__":
+    printa()
+    printb()
+```
