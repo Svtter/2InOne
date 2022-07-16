@@ -8,3 +8,22 @@ The answer is yes.
 
 And the mainc installed them all,
 run `src/main.py` successfully.
+
+The folder tree is:
+
+```
+├── mainc
+│   ├── poetry.lock
+│   ├── pyproject.toml
+│   └── src
+│       └── main.py
+├── packagea
+│   ├── apps
+│   │   └── packagea
+│   └── pyproject.toml
+├── packageb
+│   ├── apps
+│   │   └── packageb
+│   └── pyproject.toml
+└── readme.md
+```
